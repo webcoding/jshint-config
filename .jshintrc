@@ -26,9 +26,9 @@
   "esnext"       : true,
   "couch"        : true,
   "eqnull"       : false,
-  "regexp": true,
-  "proto": true,
-  "smarttabs": true
+  "regexp"       : true,
+  "proto"        : true,
+  "smarttabs"    : true,
 
   ### 宽松选项
   "asi"          : true,  #控制“缺少分号”的警告
